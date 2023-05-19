@@ -1,0 +1,3 @@
+Report Alignments Scores of assigned Alignments to Janssens Janssens
+Marc*Janssens*1682970226033 -- Alignment score = 37765
+Best Alignment score is for Marc*Janssens*1682970226033 = 37765
